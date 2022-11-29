@@ -4,7 +4,7 @@
   
   Oyun başladığında yerde beyaz renkli bir silah bulunmaktadır bu silaha çarparak silahı yerden alabilirsiniz. Silahı yerden aldıktan sonra farenin sol tuşu ile ateş edebilir , fareyi y ekseninde hareket ettirerek ise silah yönünü değiştirebilirsiniz. 
   
-  Bu girdileri kullanarak karakterin üzerinden geçip karaktere bomba atan kuşları vurabilirsiniz Vurulmadan platformun sonuna kadar gelebilirseniz oyunu bitirmiş olacaksınız.
+  Bu girdileri kullanarak karakterin üzerinden geçip karaktere bomba atan kuşları vurabilirsiniz. Vurulmadan platformun sonuna kadar gelebilirseniz oyunu bitirmiş olacaksınız.
   
   ![image](https://user-images.githubusercontent.com/75533278/204534274-6d1f0769-5f3e-4530-87c0-ea86840b4f37.png)
 
