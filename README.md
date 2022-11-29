@@ -21,4 +21,5 @@ W , A ,D , UP , LEFT , RİGHT , MOUSE 1 , MOUSE Y
   Rastgele pozisyonda kuş oluşması , kuşların karakter üzerine bomba atması , bombanın karaktere çarptığında oyunun bitmesi ,  pause menüsü 
   Scriptler : Oyuncu(ortak) , bomba , kus
 
- 
+Oyuna bu link üzerinden erişim sağlayabilirsiniz
+ https://simmer.io/@suattprog/bird-hunter
